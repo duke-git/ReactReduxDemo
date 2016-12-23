@@ -1,0 +1,36 @@
+$primary: #006699;
+
+h2 {
+	color: $primary;
+           text-align: center;
+}
+tr {
+    	border-top: 1px solid #d0d0d0;
+}
+.list-container {
+	width: 500px;
+    	margin: 0 auto;
+}
+
+.list-table {
+	border-collapse: collapse;
+    	width: 100%;
+    	text-align: center;
+    	border: 1px solid #d0d0d0;
+}
+
+.detail-container {
+	width: 400px;
+    	margin: 0 auto;
+    	
+    	.title-container {
+    		float: right;
+    	}
+    	.photo-container {
+    		float: left;
+    		img {
+    			width: 200px;
+    			height: 200px;
+    		}
+    	}
+}
