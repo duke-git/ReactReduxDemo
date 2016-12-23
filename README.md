@@ -4,3 +4,6 @@
 1. 安装依赖：npm install.
 2. 启动工程：npm run start.
 3. 访问应用：http://localhost:3000/
+
+React-Redux架构：
+![Alt text](http://images2015.cnblogs.com/blog/593627/201604/593627-20160418100241038-376047870.png)
